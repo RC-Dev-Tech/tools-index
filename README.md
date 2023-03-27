@@ -4,17 +4,33 @@
 
 <br>
 
-## IDE：
+<!--ts-->
+## 目錄
+* [IDE](#IDE)
+* [Terminal](#Terminal)
+* [GitHub](#GitHub)
+<!--te-->
+
+---
+<br>
+
+## IDE
 * [如何在MacOS上使用VSCode去編譯C++](https://github.com/RC-Dev-Tech/cpp-programming-with-vscode-on-mac) <br>
 
 <br>
 
-## Terminal：
+## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
 
 <br>
 
-## GitHub：
+## GitHub
 * [如何在GitHub上添加貪吃蛇的動畫？](https://github.com/RC-Dev-Tech/how-to-add-snake-animation-on-github) <br>
 
 <br>
+
+---
+<!--ts-->
+#### [目錄 ↩](#目錄)
+<!--te-->
+---
