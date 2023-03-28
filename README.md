@@ -6,22 +6,22 @@
 
 <!--ts-->
 ## 目錄
-* [IDE](#IDE)
 * [Terminal](#Terminal)
+* [VSCode](#VSCode)
 * [GitHub](#GitHub)
 <!--te-->
 
 ---
 <br>
 
-## IDE
-* [如何在MacOS上使用VSCode去編譯C++](https://github.com/RC-Dev-Tech/cpp-programming-with-vscode-on-mac) <br>
-
-<br>
-
 ## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
 * [Error: listen EADDRINUSE: address already in use](https://github.com/RC-Dev-Tech/note-2023-0328-a) <br>
+
+<br>
+
+## VSCode
+* [如何在MacOS上使用VSCode去編譯C++](https://github.com/RC-Dev-Tech/cpp-programming-with-vscode-on-mac) <br>
 
 <br>
 
