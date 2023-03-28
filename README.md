@@ -21,6 +21,7 @@
 
 ## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
+* [Error: listen EADDRINUSE: address already in use](https://github.com/RC-Dev-Tech/note-2023-0328-a) <br>
 
 <br>
 
