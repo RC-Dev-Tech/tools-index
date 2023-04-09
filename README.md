@@ -22,6 +22,7 @@
 <br>
 
 ## VSCode
+* [VScode HotKey - Mac](https://github.com/RC-Dev-Tech/tool-vscode-hotkey) <br>
 * [如何在MacOS上使用VSCode去編譯C++](https://github.com/RC-Dev-Tech/cpp-programming-with-vscode-on-mac) <br>
 
 <br>
