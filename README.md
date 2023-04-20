@@ -17,6 +17,7 @@
 
 ## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
+* [Curl 基本指令介紹](https://github.com/RC-Dev-Tech/tools-curl) <br>
 * [Error: listen EADDRINUSE: address already in use](https://github.com/RC-Dev-Tech/note-2023-0328-a) <br>
 
 <br>
