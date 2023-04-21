@@ -33,7 +33,7 @@
 
 <br>
 
-## GitHub
+## Git
 * [淺談SVN跟GIT有何不同](https://github.com/RC-Dev-Tech/tools-svn-vs-git) <br>
 
 <br>
