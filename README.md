@@ -1,6 +1,6 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 工具操作
 
-> ##### 記錄工具的使用.
+> ##### 記錄工具的使用跟遭遇的問題解法.
 
 <br>
 
