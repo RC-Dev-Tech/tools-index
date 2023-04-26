@@ -10,6 +10,7 @@
 * [VSCode](#VSCode)
 * [GitHub](#GitHub)
 * [Git](#Git)
+* [MySQL](#MySQL)
 <!--te-->
 
 ---
@@ -18,6 +19,7 @@
 ## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
 * [Curl 基本指令介紹](https://github.com/RC-Dev-Tech/tools-curl) <br>
+* [Error: listen EADDRINUSE: address already in use](https://github.com/RC-Dev-Tech/note-2023-0328-a) <br>
 
 <br>
 
@@ -34,6 +36,11 @@
 
 ## Git
 * [淺談SVN跟GIT有何不同](https://github.com/RC-Dev-Tech/tools-svn-vs-git) <br>
+
+<br>
+
+## MySQL
+* [Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/RC-Dev-Tech/problem-0421) <br>
 
 <br>
 
