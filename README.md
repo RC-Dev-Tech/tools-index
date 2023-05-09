@@ -2,7 +2,7 @@
 
 > ##### 記錄工具的使用跟遭遇的問題解法.
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -14,35 +14,34 @@
 <!--te-->
 
 ---
-<br>
 
 ## Terminal
 * [Tmux 入門筆記](https://github.com/RC-Dev-Tech/tool-tmux) <br>
 * [Curl 基本指令介紹](https://github.com/RC-Dev-Tech/tools-curl) <br>
 * [Error: listen EADDRINUSE: address already in use](https://github.com/RC-Dev-Tech/note-2023-0328-a) <br>
 
-<br>
+---
 
 ## VSCode
 * [VScode HotKey - Mac](https://github.com/RC-Dev-Tech/tool-vscode-hotkey) <br>
 * [如何在MacOS上使用VSCode去編譯C++](https://github.com/RC-Dev-Tech/cpp-programming-with-vscode-on-mac) <br>
 
-<br>
+---
 
 ## GitHub
 * [如何在GitHub上添加貪吃蛇的動畫？](https://github.com/RC-Dev-Tech/how-to-add-snake-animation-on-github) <br>
 
-<br>
+---
 
 ## Git
 * [淺談SVN跟GIT有何不同](https://github.com/RC-Dev-Tech/tools-svn-vs-git) <br>
 
-<br>
+---
 
 ## MySQL
 * [Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/RC-Dev-Tech/problem-0421) <br>
 
-<br>
+---
 
 ---
 <!--ts-->
