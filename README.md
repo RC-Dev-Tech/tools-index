@@ -42,6 +42,8 @@
 ## MySQL
 * [Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://github.com/RC-Dev-Tech/problem-0421) <br>
 
+---
+
 ## Markdown
 
 ---
