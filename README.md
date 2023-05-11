@@ -45,7 +45,7 @@
 ---
 
 ## Markdown
-* [Markdown 基本用法](https://github.com/RC-Dev-Tech/tool-markdown-generic) <br>
+* [Markdown 基本語法](https://github.com/RC-Dev-Tech/tool-markdown-generic) <br>
 
 ---
 <!--ts-->
